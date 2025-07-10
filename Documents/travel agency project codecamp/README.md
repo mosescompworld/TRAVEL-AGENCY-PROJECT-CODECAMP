@@ -1,17 +1,41 @@
-# Travel Agency Project
+# 🌍 Travel Agency Project
+This is a beginner-level travel agency website built using HTML, CSS, and JavaScript. 
+It includes pages and sections like services, destinations, and contact information.
 
-This is a simple travel agency website built with HTML, CSS, and JavaScript.
+## ✨ Features So Far
+- HTML homepage layout
+- Basic navigation bar
+- CSS styling for layout and colors
+- Folder structure: CSS, JS, images
 
-## Features
-- Home page with travel offers
-- Contact form
-- Styled using CSS
-- Responsive layout
+##  🛠️ To-Do / Help Needed
+- I'm currently learning web development and Git. 
+- I need help from experienced developers with the following:
+- Making the site mobile responsive
+- Improving design (modern layout, animations)
+- Adding JavaScript interactivity (e.g., sliders, contact forms)
+- General code review and folder structure tips
 
-## Folder Structure
-- index.html
-- /CSS/style.css
-- /Js/script.js
+## 🤝 Looking for Collaborators
+Are you an experienced frontend or full-stack developer? 
+I'd love your help finishing this project!
 
-## Author
-Grace Ihaz Properties & IT Solutions
+Ways you can help:
+- Submit a pull request
+- Open an issue with suggestions
+- Reach out via GitHub profile or email below
+
+## 📁 Project Folder Structure
+travel-agency/
+├── index.html
+├── CSS/
+│   └── style.css
+├── JS/
+│   └── script.js
+├── images/
+└── README.md
+
+## 📬 Contact Me
+**Name:** Moses Ozakpolor 
+**GitHub:** [https://github.com/mosescompworld](https://github.com/mosescompworld) 
+**Email:** [mosesimafidon772@gmail.com]
